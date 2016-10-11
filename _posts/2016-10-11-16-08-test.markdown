@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "I'm learning Jekyll!"
+date:   2016-10-11 16:09:21 +0800
+categories: learning jekyll
+---
+
+<p>Test</p>
