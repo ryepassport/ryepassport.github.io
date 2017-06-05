@@ -173,12 +173,15 @@ hr {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../img/intro-bg.jpg) no-repeat center top;
-	background-color: #7bc3d1;
+	background-color: #2c3e50;
+	background-size: 100%;
+	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
+	margin-left: auto;
+	margin-right: auto;
 }
 .section-title.center {
 	padding: 25px 0 45px 0;
